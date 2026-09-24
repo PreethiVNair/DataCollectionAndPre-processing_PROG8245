@@ -1,3 +1,9 @@
+
+
+
+
+
+
 # E-Commerce Data Collection and Pre-Processing
 
 This project demonstrates an end-to-end data engineering workflow using a synthetic e-commerce transaction dataset containing 500 records.
@@ -47,3 +53,9 @@ DataCollectionAndPre-processing_PROG8245/
 ├── requirements.txt
 └── .gitignore
 ```
+
+## Other Projects
+
+- https://github.com/PreethiVNair/Anomaly_Detection_Lab_Assignment.git
+- https://github.com/PreethiVNair/DataStreamVisualization_Workshop.git
+- https://github.com/PreethiVNair/DataCollectionAndPre-processing_PROG8245.git
